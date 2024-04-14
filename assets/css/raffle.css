@@ -88,7 +88,7 @@
 
 .type_loading {
   position: relative;
-  top: -35;
+  top: -35px;
   display: flex;
   justify-content: center;
   font-family: "Roboto";
@@ -106,6 +106,8 @@
   background-color: yellow;
   width: 192px;
   height: 59px;
+  font-family: "Roboto";
+  font-weight: 700;
   font-size: 18px;
 }
 
@@ -158,4 +160,20 @@
   height: 456px;
   right: 0;
   bottom: 139px;
+  background-image: url(/assets/img/Z_prizez.svg);
+}
+.X-box_console_prize {
+  position: relative;
+  width: 296px;
+  height: 351px;
+  left: 164px;
+  top: 30px;
+}
+
+.Playstation-5_prize {
+  position: relative;
+  width: 296px;
+  height: 351px;
+  left: 492px;
+  bottom: 320px;
 }
