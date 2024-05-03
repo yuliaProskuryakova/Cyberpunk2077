@@ -1,0 +1,49 @@
+.footer_content {
+  height: 100px;
+  display: flex;
+  justify-content: space-between;
+}
+
+.footer_wrapper_logo {
+  width: 805px;
+  display: flex;
+  margin-left: 320px;
+  margin-top: 13px;
+}
+
+.footer_logo_Cyberpunk {
+  width: 296px;
+  height: 74px;
+}
+.logo_CD_Project_Red {
+  width: 172px;
+  height: 74px;
+  margin-left: 32px;
+}
+.license_policy {
+  align-content: center;
+  font-family: "Roboto";
+  font-size: 18px;
+  font-weight: 400;
+  line-height: 21px;
+}
+
+.policy {
+  margin-left: 32px;
+  margin-right: 290px;
+}
+
+.copyright_content {
+  height: 40px;
+  background-color: rgba(0, 0, 0, 1);
+  color: rgba(255, 255, 255, 1);
+  display: flex;
+  justify-content: center;
+}
+.copyright {
+  font-family: "Roboto";
+  font-size: 12px;
+  font-weight: 400;
+  line-height: 14px;
+  margin-top: 13px;
+}
